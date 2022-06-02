@@ -1,2 +1,1 @@
-# restaurant-menu
-Created with CodeSandbox
+# react-projects-5-menu
